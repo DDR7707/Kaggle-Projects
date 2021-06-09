@@ -9,4 +9,4 @@ Kaggle competetions
 
 4 . [Stroke Prediction](https://www.kaggle.com/alwaysddr/eda-tools-and-roc-auc-evaluation-80-96)
 
-5 . [Flight Fare Prediction](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
+5 . [Flight Fare Prediction](https://www.kaggle.com/alwaysddr/r2-score-of-91-042-visualization/notebook)
